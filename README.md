@@ -62,3 +62,8 @@ Plain HTML, CSS, and vanilla JavaScript in a single `index.html`. The interactiv
 ## Reuse
 
 No software license is specified in this repository. Historical source material and third-party photographs retain their respective rights and reuse conditions.
+
+
+## Revised forensic model — warning hypothesis
+
+The current version distinguishes **departure sequence** from **fatal exposure timing**, rather than assuming that all three men leaving together follows from all three being lost in one event. Its four selectable, unverified scenarios are joint inspection, attempted warning, attempted rescue, and independent departures. The probability controls have been updated to four hypothetical scenarios and remain sensitivity demonstrations, **not historical probability estimates**. No primary evidence currently documents a warning or rescue attempt.
